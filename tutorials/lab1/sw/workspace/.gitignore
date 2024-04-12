@@ -1,0 +1,8 @@
+Debug/
+Release/
+RemoteSystemsTempFiles/
+.metadata/
+.analytics
+.Xil/
+*.log
+logs/
