@@ -1,0 +1,12 @@
+project/
+NA/
+.Xil/
+rev/
+*.bit
+*.jou
+*.str
+*.log
+*.pid
+*.tcl
+*.xsa
+!create_project.tcl
